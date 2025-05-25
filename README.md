@@ -128,7 +128,7 @@ OnlineShoppingProject/
 
 ## 📌 Author
 
-Developed by Jayesh
+Developed by Jayesh  
 Institute: Saraswati College of Engineering  
 For educational purposes only.
 
